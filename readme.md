@@ -1,5 +1,5 @@
 <h1>FLUENCE</h1>
-  <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/Fluence-edge/main/logoG.jpeg"/>
+  <img src="https://github.com/ViniciusBarrosFiap/Fluence-edge/blob/main/logoG.png"/>
   
   <p>Uma plataforma digital dedicada a cuidar da hidratação de idosos e pessoas com doenças crônicas, melhorando a qualidade de sua saúde</p>
 
