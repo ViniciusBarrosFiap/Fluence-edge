@@ -30,6 +30,10 @@
       
   </ul>
 
+  <h2>Link da simulação no WokWi</h2>
+  <p>Para acessar a simulação, clique no link abaixo</p>
+  <a href="https://wokwi.com/projects/380309249506886657">LINK DA SIMULAÇÃO</a>
+
   <h2>Autores</h2>
   <p>Este projeto foi desenvolvido por uma equipe de desenvolvedores talentosos e dedicados a aprimorar sua saúde e hidratação. Entre em contato conosco para obter mais informações ou esclarecimentos.</p>
    <ul>
