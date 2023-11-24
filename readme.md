@@ -37,5 +37,5 @@
   </ul>
   <p>Abaixo temos imagens do protótipo desenvolvido em casa especialmente para a Global Solution</p>
   <h1>Protótipo</h1>
-  <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/esp32-rfid/main/img/WhatsApp%20Image%202023-11-01%20at%2013.51.42.jpeg"/>
-  <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/esp32-rfid/main/img/WhatsApp%20Image%202023-11-01%20at%2013.51.42.jpeg"/>
+  <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/Fluence-edge/main/GarrafaAberta.jpeg"/>
+  <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/esp32-rfid/main/GarrafaFechada.jpeg"/>
