@@ -38,4 +38,4 @@
   <p>Abaixo temos imagens do protótipo desenvolvido em casa especialmente para a Global Solution</p>
   <h1>Protótipo</h1>
   <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/Fluence-edge/main/GarrafaAberta.jpeg"/>
-  <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/esp32-rfid/main/GarrafaFechada.jpeg"/>
+  <img src="https://raw.githubusercontent.com/ViniciusBarrosFiap/Fluence-edge/main/GarrafaFechada.jpeg"/>
