@@ -1,7 +1,6 @@
 <h1>FLUENCE</h1>
   <img src="https://github.com/ViniciusBarrosFiap/Fluence-edge/blob/main/logoG.png"/>
-  <h3>Link youtube</h3>
-  <a href="https://youtu.be/JGgGj1eqhII?si=L0htc0eoyRVti4PZ">LINK DO VIDEO</a>
+  
   <p>Uma plataforma digital dedicada a cuidar da hidratação de idosos e pessoas com doenças crônicas, melhorando a qualidade de sua saúde</p>
 
   <h2>Funcionalidades Principais</h2>
@@ -34,6 +33,10 @@
   <h2>Link da simulação no WokWi</h2>
   <p>Para acessar a simulação, clique no link abaixo</p>
   <a href="https://wokwi.com/projects/380309249506886657">LINK DA SIMULAÇÃO</a>
+  <h2>Link youtube</h2>
+  <p>Segue abaixo o link do video postado no youtube mostrando o funcionamento da solução</p>
+
+  <a href="https://youtu.be/JGgGj1eqhII?si=L0htc0eoyRVti4PZ">LINK DO VIDEO</a>
 
   <h2>Autores</h2>
   <p>Este projeto foi desenvolvido por uma equipe de desenvolvedores talentosos e dedicados a aprimorar sua saúde e hidratação. Entre em contato conosco para obter mais informações ou esclarecimentos.</p>
