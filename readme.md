@@ -1,6 +1,7 @@
 <h1>FLUENCE</h1>
   <img src="https://github.com/ViniciusBarrosFiap/Fluence-edge/blob/main/logoG.png"/>
-  
+  <h3>Link youtube</h3>
+  <a href="https://youtu.be/JGgGj1eqhII?si=L0htc0eoyRVti4PZ">LINK DO VIDEO</a>
   <p>Uma plataforma digital dedicada a cuidar da hidratação de idosos e pessoas com doenças crônicas, melhorando a qualidade de sua saúde</p>
 
   <h2>Funcionalidades Principais</h2>
